@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Vishal 👋
 
-<!--
-**vishal-kumar-888/vishal-kumar-888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ Backend & Systems Engineering Learner
 
-Here are some ideas to get you started:
+## About Me
+- Practicing Data Structures & Algorithms in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning Backend Development with Node.js
+
+- Building backend projects and improving problem-solving skills
+
+- Goal: Become a strong Backend / Software Engineer
+
+## Currently Learning
+- C++ Data Structures & Algorithms
+- Node.js Backend Development
+- Docker
+- Git & GitHub
+
+## DSA Practice
+ Repository:
+### ➡️ cpp-dsa-practice
+Topics covered so far:
+- Arrays
+- Binary Search
+- Linked List
+- Two Pointers
+- Math
+- Goal: ###500+ DSA Problems
+
+## Projects
+- Library Management System
+
+- Docker Node API
+
+- Basic Map Project
+
+- DSA Practice Repository

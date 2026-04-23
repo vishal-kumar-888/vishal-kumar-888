@@ -45,6 +45,9 @@ Topics covered so far:
 * Linked List
 * Two Pointers
 * Math
+* Trees
+* Graph
+* Prefix & Sufix
 
 Goal: **500+ DSA Problems**
 

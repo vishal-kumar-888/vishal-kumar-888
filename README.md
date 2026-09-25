@@ -153,12 +153,14 @@ C++ DSA
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-kumar-888\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumar-888\&layout=compact\&theme=radical)
-
+- 🧠 C++ Data Structures & Algorithms
+- ⚙️ Node.js & TypeScript Backend Development
+- 🛠️ HelperSathi
+- 💬 Real-Time Chat Backend
+- 🐳 Docker & Backend Infrastructure
+  
 ---
 
 ## 🤝 Connect With Me

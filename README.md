@@ -1,64 +1,155 @@
-# Hi, I'm Vishal 👋
+  ##                                 Hi, I'm Vishal Kumar 👋
 
-### C++ Backend & Systems Engineering Learner
+### Backend Developer | C++ DSA | Node.js | TypeScript
+
+I build backend applications and practice **Data Structures & Algorithms in C++**.
+
+Currently focused on **backend engineering, REST APIs, authentication, databases, real-time systems, Docker, and system design**.
 
 ---
 
 ## 🚀 About Me
 
-* Practicing **Data Structures & Algorithms in C++**
-* Learning **Backend Development with Node.js**
-* Building backend projects and improving problem-solving skills
-* Goal: Become a strong **Backend / Software Engineer**
+* 💻 Backend development with **Node.js & TypeScript**
+* 🧠 Practicing **Data Structures & Algorithms in C++**
+* 🏗️ Building real-world backend projects
+* 🔐 Working with authentication, authorization, and secure APIs
+* ⚡ Exploring **Redis, Socket.IO, Docker, and scalable backend architecture**
+* 🎯 Goal: Become a strong **Backend / Software Engineer**
 
 ---
 
-## 🧠 Currently Learning
+## 🛠️ Tech Stack
 
-* C++ Data Structures & Algorithms
-* Node.js Backend Development
-* Docker
-* Git & GitHub
-
----
-
-## 🛠 Tech Stack
+### Languages
 
 * C++
+* TypeScript
+* JavaScript
+* SQL
+
+### Backend
+
 * Node.js
 * Express.js
+* REST APIs
+* Socket.IO
+* JWT Authentication
+
+### Databases & Caching
+
+* MongoDB
+* Mongoose
+* Redis
+
+### DevOps & Tools
+
 * Docker
-* Git & GitHub
+* Git
+* GitHub
+* Linux
+* Postman
 
 ---
 
-## 📊 DSA Practice
+## 🔥 Featured Projects
 
-Repository:
+### 🛠️ HelperSathi
 
-➡️ **[cpp-dsa-practice](https://github.com/vishal-kumar-888/cpp-dsa-practice)**
+A home-services marketplace backend connecting **customers with local service providers** such as electricians, plumbers, carpenters, and other skilled workers.
 
-Topics covered so far:
+**Tech:** TypeScript · Node.js · Express.js · MongoDB · Mongoose · JWT · Argon2
+
+**Highlights:**
+
+* User registration and login
+* Customer and Worker roles
+* JWT authentication
+* Worker profiles
+* Service and job management architecture
+* Controller → Service → Repository architecture
+* MongoDB data modeling with Mongoose
+
+➡️ [View HelperSathi](https://github.com/vishal-kumar-888/HelperSathi)
+
+---
+
+### 💬 Real-Time Chat Application
+
+A backend-focused real-time chat system built to explore **WebSockets, Redis, authentication, and scalable backend architecture**.
+
+**Tech:** Node.js · TypeScript · Express.js · Socket.IO · Redis · MongoDB
+
+**Highlights:**
+
+* Real-time messaging
+* Conversation/room-based communication
+* User presence
+* Typing indicators
+* Message delivery/read status
+* JWT authentication
+* Rate limiting and security middleware
+* Redis Pub/Sub for multi-instance Socket.IO architecture
+
+➡️ [View Chat Application](https://github.com/vishal-kumar-888/Chat_App)
+
+---
+
+### 🧠 C++ DSA Practice
+
+A collection of Data Structures & Algorithms problems solved in **C++** from platforms including LeetCode, GeeksforGeeks, and HackerRank.
+
+**Topics:**
 
 * Arrays
 * Binary Search
-* Linked List
-* Two Pointers
-* Math
+* Linked Lists
 * Trees
-* Graph
-* Prefix & Sufix
+* Graphs
+* Sliding Window
+* Two Pointers
+* Prefix Sum
+* Bit Manipulation
+* Recursion
+* Math
 
-Goal: **500+ DSA Problems**
+🎯 Goal: **500+ problems**
+
+➡️ [View DSA Repository](https://github.com/vishal-kumar-888/cpp-dsa-practice)
 
 ---
 
-## 🧩 Projects
+## 📊 DSA Progress
 
-* 📦 Library Management System
-* 🐳 Docker Node API
-* 🗺 Basic Map Project
-* 🧠 DSA Practice Repository
+**140+ problems documented in my DSA repository**
+
+```text
+C++ DSA
+│
+├── Arrays
+├── Binary Search
+├── Linked List
+├── Trees
+├── Graphs
+├── Sliding Window
+├── Two Pointers
+├── Prefix Sum
+├── Bit Manipulation
+└── Recursion
+```
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* Backend System Design
+* Scalable REST APIs
+* Redis & Caching
+* Docker & Containerization
+* Database Design
+* Distributed Systems fundamentals
+* CI/CD
 
 ---
 
@@ -70,7 +161,15 @@ Goal: **500+ DSA Problems**
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-GitHub:
-https://github.com/vishal-kumar-888
+* 💼 [LinkedIn](https://www.linkedin.com/in/vishal-kumar-089865384/)
+* 🐙 [GitHub](https://github.com/vishal-kumar-888)
+
+---
+
+### 💡 What I'm Working Toward
+
+> Building reliable backend systems, improving my problem-solving skills, and continuously learning how to design scalable software.
+
+⭐ Thanks for visiting my profile!

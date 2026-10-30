@@ -121,7 +121,7 @@ A collection of Data Structures & Algorithms problems solved in **C++** from pla
 
 ## 📊 DSA Progress
 
-**140+ problems documented in my DSA repository**
+**170+ problems documented in my DSA repository**
 
 ```text
 C++ DSA
